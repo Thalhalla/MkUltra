@@ -2,5 +2,5 @@
 
 * [MkUltra](README.md)
 * [Defining Methods](methods.md)
-* Prototype
+* [Prototype](prototype.md)
 
