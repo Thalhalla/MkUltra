@@ -4,5 +4,5 @@
 * [Defining Methods](methods.md)
 * [Prototype](prototype.md)
 * [mkgitlab](mkgitlab.md)
-* mkRedmine
+* [mkRedmine](mkredmine.md)
 
