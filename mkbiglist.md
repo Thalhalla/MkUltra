@@ -22,6 +22,8 @@ Domoticz
 
 ### [docker-icinga2](https://github.com/joshuacox/docker-icinga2)
 
+Icinga2
+
 https://github.com/joshuacox/mkCoreOS
 
 https://github.com/joshuacox/mkswarm
