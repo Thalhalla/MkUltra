@@ -4,5 +4,5 @@
 * [Defining Methods](methods.md)
 * [Prototype](prototype.md)
 * [mkbiglist](mkbiglist.md)
-* RTFM
+* [RTFM](rtfm.md)
 
