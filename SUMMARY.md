@@ -5,5 +5,5 @@
 * [Defining Methods](methods.md)
 * [Prototype](prototype.md)
 * [mkbiglist](mkbiglist.md)
-* Rake
+* [Rake](rake.md)
 
