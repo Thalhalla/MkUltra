@@ -8,4 +8,5 @@
 * [Rake](rake.md)
 * [disambiguation](disambiguation.md)
 * [Kubernetes](kubernetes.md)
+* mkCloudAtCost
 
