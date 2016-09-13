@@ -15,7 +15,7 @@ k8svc: local-nginx-svc.yaml
 	kubectl create -f local-nginx-svc.yaml
 
 k8deploy: local-nginx-deploy.yaml
-kubectl create -f local-nginx-deploy.yaml
+    kubectl create -f local-nginx-deploy.yaml
 ```
 
 the two yaml files were generated with:
