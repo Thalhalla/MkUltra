@@ -7,5 +7,5 @@
 * [mkbiglist](mkbiglist.md)
 * [Rake](rake.md)
 * [disambiguation](disambiguation.md)
-* Kubernetes
+* [Kubernetes](kubernetes.md)
 
