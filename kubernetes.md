@@ -4,7 +4,7 @@ Endgame is to get all these things into Kubernetes.  Instead of just running on 
 
 ### `make k8s`
 
-On line 167 I give an example of how a kubernetes yaml file can be generated:
+On line [167](https://github.com/joshuacox/local-nginx/blob/stretch/Makefile#L167) of my local-nginx [Makefile](https://github.com/joshuacox/local-nginx/blob/stretch/Makefile) I give an example of how a kubernetes yaml file can be generated:
 https://github.com/joshuacox/local-nginx/blob/stretch/Makefile#L167
 
 ```
@@ -15,7 +15,7 @@ k8svc: local-nginx-svc.yaml
 	kubectl create -f local-nginx-svc.yaml
 
 k8deploy: local-nginx-deploy.yaml
-kubectl create -f local-nginx-deploy.yaml
+    kubectl create -f local-nginx-deploy.yaml
 ```
 
 the two yaml files were generated with:
