@@ -15,6 +15,7 @@ mark {
 .book-summary ul.summary li a,
 .book-summary ul.summary li span {
   color:#bbb;
+  background:#111;
 }
 
 #book-search-input,
@@ -32,11 +33,13 @@ mark {
 
 .book-summary ul.summary li.done>a {
   color:#bbb;
+  background:#111;
   font-weight:400;
 }
 
 .markdown-section {
   color:#DDD;
+  background:#111;
 }
 
 .markdown-section code {
