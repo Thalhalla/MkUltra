@@ -16,7 +16,7 @@ Another github [issue](https://github.com/docker/docker/issues/18361) hilighting
 
 ### manually
 
-From my [mkarduino](https://github.com/joshuacox/mkarduino) you can see that in my `docker run` command I have volume mounts where we mount in a `.Xauthority` file, and `/tmp/.X11-unix:rw`, and we have the environmanet variables DISPLAY and XAUTHORITY, and finally the `--device /dev/dri`
+My [mkarduino](https://github.com/joshuacox/mkarduino) is a decent example of getting a gui app to work on the desktop from docker.  You can see that in my `docker run` command I have volume mounts where we mount in a `.Xauthority` file, and `/tmp/.X11-unix:rw`, and we have the environmanet variables DISPLAY and XAUTHORITY, and finally the `--device /dev/dri`
 
 ```
 rundocker:
