@@ -4,6 +4,13 @@ mark {
   color:#000;
 }
 
+.api-method .api-method-code {
+  background-color: #333;
+  border-bottom: 1px solid #500;
+  border-top: 1px solid #500;
+  padding: 30px 30px 15px;
+}
+
 .markdown-section {
   color:#FFF;
 }
