@@ -17,9 +17,9 @@ mark {
   color:#bbb;
 }
 
+#book-search-input,
 .summary,
 .book-summary,
-.book-search-input,
 .book-header {
   color:#bbb;
   background:#111;
