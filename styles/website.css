@@ -17,7 +17,9 @@ mark {
   color:#bbb;
 }
 
-.book-summary .book-header {
+.book-summary,
+.book-search-input,
+.book-header {
   color:#bbb;
   background:#111;
 }
