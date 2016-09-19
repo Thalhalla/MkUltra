@@ -9,4 +9,5 @@
 * [disambiguation](disambiguation.md)
 * [Kubernetes](kubernetes.md)
 * [mkCloudAtCost](mkcloudatcost.md)
+* GUI in docker
 
