@@ -32,7 +32,7 @@ mark {
 }
 
 .markdown-section {
-  color:#FFF;
+  color:#DDD;
 }
 
 .markdown-section code {
@@ -43,8 +43,17 @@ mark {
   background-color:#500;
 }
 
+.markdown-section pre {
+  overflow:auto;
+  word-wrap:normal;
+  margin:0;
+  padding:.85em 1em;
+  margin-bottom:1.275em;
+  background-color:#500;
+}
+
 .book-body {
-  color: #FFF;
+  color: #DDD;
   background: #000;
 }
 
