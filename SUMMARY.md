@@ -9,6 +9,6 @@
 * [Rake](rake.md)
 * [Kubernetes](kubernetes.md)
 * [mkCloudAtCost](mkcloudatcost.md)
-* [disambiguation](disambiguation.md)
 * [GUI in docker](gui.md)
+* [disambiguation](disambiguation.md)
 
